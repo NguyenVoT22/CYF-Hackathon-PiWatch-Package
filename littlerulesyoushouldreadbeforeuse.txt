@@ -1,3 +1,11 @@
 This is the rules to how to productively use the PiWatch!
 
-The PiWatch hardware is made by Thanhbinh Nguyen, with resources from the Pi
+The PiWatch hardware is made by Thanhbinh Nguyen, with resources from the Pi she had made before with Google Code Next.
+There were hints to how use and she tweaked the project more to make it unique! Please check out   
+https://github.com/TbinhCodeNext to learn more.
+
+The files can be downloaded with a Zip file, so feel free to use the tools you feel comfy with!!
+
+After downloading please delete the files that is asked to be deleted. The email used here is an example so don't hack into it.
+
+We hope hope the best for you.
