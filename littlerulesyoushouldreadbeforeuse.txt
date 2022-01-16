@@ -1,1 +1,3 @@
-Please read me after downloading the zip file.
+This is the rules to how to productively use the PiWatch!
+
+The PiWatch hardware is made by Thanhbinh Nguyen, with resources from the Pi
