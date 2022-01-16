@@ -1,0 +1,1 @@
+You will see a trainer.yml file once you do the face_training.py command.
